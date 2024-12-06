@@ -1,0 +1,1 @@
+import{j as e}from"./index-0e8f3c6f.js";function a(){return e.jsx("div",{className:"search__page",children:e.jsx("div",{className:"search__input",children:e.jsx("input",{type:"text",placeholder:"search"})})})}export{a as default};
